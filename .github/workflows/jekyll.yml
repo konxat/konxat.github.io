@@ -17,7 +17,7 @@ jobs:
       uses: actions/cache@v3
       with:
         token: ${{ secrets.PAT }}
-        repository: konhat88/site
+        repository: konxat.github.io
         ref: gh-pages
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -41,7 +41,7 @@ jobs:
         bundle install
 
     - name: Build site
-      run: bundle exec jekyll build --verbose
+      run: bundle exec jekyll build  # --verbose
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
