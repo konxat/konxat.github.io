@@ -28,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Konstantinos P. Chatzipapas is a Medical Physicist, currently based at Brest, France. He has been working with the consequencies of radiation to living matter, using computational techniques. Both Monte Carlo (MC) simulations and Artificial Intelligence (AI) methods are in the menu, with a mean focus on the quantification of cellular damage. He is keen to working with interested researchers in all levels (i.e., PhD candidates, Post-Doc researchers, senior researchers).
+Konstantinos P. Chatzipapas is a Medical Physicist, currently based at Brest, France with research interests at the intersection of medical physics, artificial intelligence (AI), and advanced bioprinting technologies. He is passionate about developing innovative solutions to improve radiation bio-dosimetry and its clinical applications. More specifically, he has been working with the consequencies of radiation to living matter, using computational techniques. Both Monte Carlo (MC) simulations and Artificial Intelligence (AI) methods are in the menu, with a mean focus on the quantification of cellular damage. He is keen to working with interested researchers in all levels (i.e., PhD candidates, Post-Doc researchers, senior researchers).
 
 Konstantinos is part of the [Geant4](https://geant4.web.cern.ch/) and the [Geant4-DNA](http://geant4-dna.org/) collaboration, and is the contact person for AI developments with Geant4-DNA.
+
+His current research focuses on several key areas: developing novel methodologies using Monte Carlo (MC) simulations and AI to quantify cellular response after irradiation, advancing personalized dosimetry methods using specialized pharmacokinetic models, exploring 3D bioprinting for creating physical phantoms for medical physics applications, developing online applications leveraging AI to support clinical staff in ionizing radiation techniques, and investigating the potential of digital twins to revolutionize clinical procedures.
 
 Anyone interested for collaboration could contact me at my e-mail: konstantinos.chatzipapas[at]univ-brest.fr
