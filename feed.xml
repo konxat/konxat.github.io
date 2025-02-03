@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.kons.gr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.kons.gr/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-03T13:06:09+00:00</updated><id>https://www.kons.gr/feed.xml</id><title type="html">Konstantinos personal webpage</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.kons.gr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.kons.gr/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-03T13:27:14+00:00</updated><id>https://www.kons.gr/feed.xml</id><title type="html">Konstantinos personal webpage</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with image galleries</title><link href="https://www.kons.gr/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://www.kons.gr/blog/2024/photo-gallery</id><content type="html" xml:base="https://www.kons.gr/blog/2024/photo-gallery/">&lt;p&gt;The images in this post are all zoomable, arranged into different mini-galleries using different libraries.&lt;/p&gt;
 
 &lt;h2 id=&quot;lightbox2&quot;&gt;&lt;a href=&quot;https://lokeshdhakar.com/projects/lightbox2/&quot;&gt;Lightbox2&lt;/a&gt;&lt;/h2&gt;
@@ -91,7 +91,7 @@ Content 2
 
 &lt;p&gt;With this you can generate visualizations like:&lt;/p&gt;
 
-&lt;ul class=&quot;tab&quot; data-tab=&quot;1dd2353c-f55c-46bf-a698-2f85a69c3f47&quot;&gt;
+&lt;ul class=&quot;tab&quot; data-tab=&quot;07306cb6-0042-4ac6-9920-4e5da2a858d7&quot;&gt;
     
         &lt;li class=&quot;active&quot;&gt;
             &lt;a href=&quot;&quot;&gt;php&lt;/a&gt;
@@ -106,7 +106,7 @@ Content 2
         &lt;/li&gt;
     
     &lt;/ul&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;1dd2353c-f55c-46bf-a698-2f85a69c3f47&quot;&amp;gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;07306cb6-0042-4ac6-9920-4e5da2a858d7&quot;&amp;gt;
 
     &amp;lt;li class=&quot;active&quot;&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -133,7 +133,7 @@ Content 2
 
 &lt;h2 id=&quot;another-example&quot;&gt;Another example&lt;/h2&gt;
 
-&lt;ul class=&quot;tab&quot; data-tab=&quot;2ca236a4-585e-44d9-8e52-174531926acb&quot;&gt;
+&lt;ul class=&quot;tab&quot; data-tab=&quot;ac668858-e292-4c38-a7cf-4f08d7d79ba9&quot;&gt;
     
         &lt;li class=&quot;active&quot;&gt;
             &lt;a href=&quot;&quot;&gt;yaml&lt;/a&gt;
@@ -144,7 +144,7 @@ Content 2
         &lt;/li&gt;
     
     &lt;/ul&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;2ca236a4-585e-44d9-8e52-174531926acb&quot;&amp;gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;ac668858-e292-4c38-a7cf-4f08d7d79ba9&quot;&amp;gt;
 
     &amp;lt;li class=&quot;active&quot;&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -168,7 +168,7 @@ Content 2
 
 &lt;h2 id=&quot;tabs-for-something-else&quot;&gt;Tabs for something else&lt;/h2&gt;
 
-&lt;ul class=&quot;tab&quot; data-tab=&quot;baa4080f-8f98-441b-802f-a6a0493f981d&quot;&gt;
+&lt;ul class=&quot;tab&quot; data-tab=&quot;22d82499-f587-4cce-974c-73c67a39ef86&quot;&gt;
     
         &lt;li class=&quot;active&quot;&gt;
             &lt;a href=&quot;&quot;&gt;text&lt;/a&gt;
@@ -183,7 +183,7 @@ Content 2
         &lt;/li&gt;
     
     &lt;/ul&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;baa4080f-8f98-441b-802f-a6a0493f981d&quot;&amp;gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;22d82499-f587-4cce-974c-73c67a39ef86&quot;&amp;gt;
 
     &amp;lt;li class=&quot;active&quot;&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
