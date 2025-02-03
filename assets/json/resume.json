@@ -1,61 +1,91 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Konstantinos P. Chatzipapas",
+    "label": "Medical- Radiation Phycisist, MSc PhD",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "konstantinos.chatzipapas[at]univ-brest.fr",
+    "phone": "",
+    "url": "https://www.kons.gr",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "22 Avenue Camille Desmoulins",
+      "postalCode": "F 29200",
+      "city": "Brest",
+      "countryCode": "France",
+      "region": "Brittany"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "konstantinoschatzipapas",
+        "url": "https://www.linkedin.com/in/konstantinoschatzipapas/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "LaTIM, INSERM, University of Brest",
+      "position": "Research Engineer/ Post-doc Researcher",
+      "url": "https://latim.univ-brest.fr",
+      "startDate": "2023-05-01",
+      "endDate": "2025-04-31",
+      "summary": "Geant4-DNA MC simulations expert and AI development manager on advances about micro-dosimetry.",
+      "highlights": ["LuTaDose-PIANOFORTE project"]
     }
-  ],
-  "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "LP2iB, University of Bordeaux",
+      "position": "Research Engineer/ Post-doc Researcher",
+      "url": "https://www.lp2ib.in2p3.fr",
+      "startDate": "2022-02-01",
+      "endDate": "2023-04-31",
+      "summary": "Geant4-DNA MC simulations and DNA geometries development expert.",
+      "highlights": ["BioRad3- ESA project"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Patras",
+      "location": "Rion, Greece",
+      "url": "https://physics.med.upatras.gr",
+      "area": "Monte Carlo simulations with Geant4, Geant4-DNA, and GATE.",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2016-06-01",
+      "endDate": "2021-11-15",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Development of cell and protein scale dosimetry tools, and their applications for the optimization of therapeutic protocols using Monte Carlo simulations"]
+    }
+    {
+      "institution": "University of Patras",
+      "location": "Rion, Greece",
+      "url": "https://physics.med.upatras.gr",
+      "area": "Monte Carlo dosimetry simulations with GATE, on radiation therapy and brachytherapy protocols.",
+      "studyType": "MSc",
+      "startDate": "2014-09-01",
+      "endDate": "2016-05-31",
+      "score": "9.06",
+      "courses": ["Clinical Evaluation of Pediatric Brachytherapy, Using Monte Carlo Simulations"]
+    }
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "location": "Athens, Greece",
+      "url": "https://sportsvehicledesign.core.uoa.gr/",
+      "area": "Design and Construction of Racing Vehicle Systems",
+      "studyType": "MSc",
+      "startDate": "2019-09-01",
+      "endDate": "2024-02-28",
+      "score": "10",
+      "courses": ["Hybrid 3D printer that combines extrusion and jetting techniques for biomedical applications using 3D toolpath curves"]
+    }
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "location": "Athens, Greece",
+      "url": "https://en.phys.uoa.gr/",
+      "area": "Physics",
+      "studyType": "BSc",
+      "startDate": "2005-09-01",
+      "endDate": "2014-08-30",
+      "score": "10",
+      "courses": ["Nuclear Physics, Elementary Particles, and Medical Physics"]
     }
   ],
   "awards": [
