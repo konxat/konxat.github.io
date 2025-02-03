@@ -4,7 +4,7 @@
     - name: Full Name
       value: Konstantinos P. Chatzipapas
     - name: Date of Birth
-      value: 09th January 1988
+      value: January 09, 1988
     - name: Languages
       value: English, Greek, French
 
@@ -15,24 +15,29 @@
       institution: University of Patras, Rion, Greece
       year: 2021
       description:
-        - Description 1.
+        - Development of cell and protein scale dosimetry tools, and their applications for the optimization of therapeutic protocols using Monte Carlo simulations
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: MSc in Medical and Radiation Physics
       institution: University of Patras, Rion, Greece
       year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Clinical Evaluation of Pediatric Brachytherapy, Using Monte Carlo Simulations
+        # - Description 2.
+    - title: MSc in Design and Construction of Racing Vehicle Systems
+      institution: National and Kapodistrian University of Athens, Athens, Greece
+      year: 2024
+      description:
+        - Hybrid 3D printer that combines extrusion and jetting techniques for biomedical applications using 3D toolpath curves
     - title: BSc in Physics
       institution: National and Kapodistrian University of Athens, Athens, Greece
       year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Nuclear Physics, Elementary Particles, and Medical Physics
+        - Thesis title: CT Quality assurance
 
 
 - title: Experience
