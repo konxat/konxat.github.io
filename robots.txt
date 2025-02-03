@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://konhat88.github.io/site/sitemap.xml
+Sitemap: https://konxat.github.io/sitemap.xml
