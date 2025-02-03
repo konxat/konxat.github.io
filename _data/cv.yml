@@ -11,28 +11,31 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Medical and Radiation Physics
+    - title: <a href="https://physics.med.upatras.gr/" target="_blank">PhD in Medical and Radiation Physics</a>
       institution: University of Patras, Rion, Greece
       year: 2021
       description:
         - Development of cell and protein scale dosimetry tools, and their applications for the optimization of therapeutic protocols using Monte Carlo simulations
         - Development of the IDDRRA toolkit.
+        - <a href="http://dx.doi.org/10.12681/eadd/50467" target="_blank">Thesis</a>
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: MSc in Medical and Radiation Physics
+    - title: <a href="https://physics.med.upatras.gr/" target="_blank">MSc in Medical and Radiation Physics</a>
       institution: University of Patras, Rion, Greece
       year: 2016
       description:
         - Clinical Evaluation of Pediatric Brachytherapy, Using Monte Carlo Simulations
+        - <a href="http://hdl.handle.net/10889/10758" target="_blank">Thesis</a>
         # - Description 2.
-    - title: <a href="https://sportsvehicledesign.core.uoa.gr/" target="_blank">MSc in Design and Construction of Racing Vehicle Systems</a>
+    - title: <a href="https://sportsvehicledesign.core.uoa.gr/en/" target="_blank">MSc in Design and Construction of Racing Vehicle Systems</a>
       institution: National and Kapodistrian University of Athens, Athens, Greece
       year: 2024
       description:
         - Hybrid 3D printer that combines extrusion and jetting techniques for biomedical applications using 3D toolpath curves
-    - title: BSc in Physics
+        - <a href="https://pergamos.lib.uoa.gr/uoa/dl/object/3399813" target="_blank">Thesis</a>
+    - title: <a href="https://en.phys.uoa.gr/" target="_blank">BSc in Physics</a>
       institution: National and Kapodistrian University of Athens, Athens, Greece
       year: 2014
       description:
@@ -44,17 +47,17 @@
   type: time_table
   contents:
     - title: Research Scientist/ Post-doc Researcher
-      institution: LaTIM, INSERM, University of Brest
+      institution: <a href="https://latim.univ-brest.fr/" target="_blank">LaTIM</a>, INSERM, University of Brest
       year: 2023-2025
       description:
         - Geant4-DNA MC simulations expert and AI development manager on advances about micro-dosimetry
         # - Description 2.
         - title: Projects
           contents:
-            - LuTaDose/ PIANOFORTE
-            - SECURE
+            - <a href="https://pianoforte-partnership.eu/lutadose/" target="_blank">LuTaDose/ PIANOFORTE</a>
+            - <a href="https://enen.eu/index.php/portfolio/secure-project/" target="_blank">SECURE</a>
     - title: Research Scientist/ Post-doc Researcher
-      institution: LP2iB, CNRS, University of Bordeaux
+      institution: <a href="https://www.lp2ib.in2p3.fr/" target="_blank">LP2iB</a>, CNRS, University of Bordeaux
       year: 2022-2023
       description:
         - Geant4-DNA MC simulations and DNA geometries development expert
