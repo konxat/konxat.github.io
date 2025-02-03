@@ -1,0 +1,358 @@
+---
+---
+
+@string{aps = {American Physical Society,}}
+
+@article{ARCHER2025112448,
+  title = {A multiscale nanodosimetric study of GCR protons and alpha particles in the organs of astronauts on the lunar surface},
+  journal = {Radiation Physics and Chemistry},
+  volume = {229},
+  pages = {112448},
+  year = {2025},
+  issn = {0969-806X},
+  doi = {https://doi.org/10.1016/j.radphyschem.2024.112448},
+  url = {https://www.sciencedirect.com/science/article/pii/S0969806X2400940X},
+  author = {Jay W. Archer and Matthew J. Large and David Bolst and Dousatsu Sakata and Hoang Ngoc Tran and Konstantinos P. Chatzipapas and Vladimir Ivantchenko and Anatoly B. Rosenfeld and Sebastien Incerti and Jeremy M.C. Brown and Susanna Guatelli},
+  keywords = {Nanodosimetry, Geant4, Geant4-DNA, Radiation protection of astronauts, Monte Carlo, Multiscale},
+  abstract = {The early DNA damage on the surface of the Moon due to GCR protons and alpha particles were assessed using a multiscale approach in Geant4. This consisted of three simulation stages. A periodic boundary conditions approach was used to obtain the radiation field on the surface and inside a proposed lunar habitat. The radiation field on the cellular scale was obtained in the organs of male and female astronauts using the ICRP145 tetrahedral mesh phantoms. This was subsequently simulated using a full human cell model in Geant4-DNA to obtain the early DNA damage. Geant4-DNA track structure ionisation models upper energy limits were extended to be able to model the interactions of the GCR at sub-cellular level, covering an energy range from a few eV up to 1TeV. Hadronic interactions and the modelling of induced radiochemical species were also implemented. The early DNA damage was assessed using the Geant4-DNA molecularDNA example. A greater yield of DNA damage was observed on the lunar surface compared with the habitat, and indirect damage due to induced hydroxyl radicals constituted most of the damage. This study demonstrates a complete simulation pipeline for the assessment of early DNA damage in astronauts in the space radiation environment.}
+}
+
+@article{HEEMSKERK2025100908,
+  title = {Position in proton Bragg curve influences DNA damage complexity and survival in head and neck cancer cells},
+  journal = {Clinical and Translational Radiation Oncology},
+  volume = {51},
+  pages = {100908},
+  year = {2025},
+  issn = {2405-6308},
+  doi = {https://doi.org/10.1016/j.ctro.2024.100908},
+  url = {https://www.sciencedirect.com/science/article/pii/S240563082400185X},
+  author = {Tim Heemskerk and Celebrity Groenendijk and Marta Rovituso and Ernst {van der Wal} and Wouter {van Burik} and Konstantinos Chatzipapas and Danny Lathouwers and Roland Kanaar and Jeremy M.C. Brown and Jeroen Essers},
+  keywords = {Proton therapy, DNA Breaks, Double-stranded, Squamous cell carcinoma of head and neck, DNA damage, Linear energy transfer, Radiobiology, DNA repair, Cell survival, Tumor Suppressor p53-Binding Protein 1},
+  abstract = {Background and purpose 
+  Understanding the cellular and molecular effect of proton radiation, particularly the increased DNA damage complexity at the distal end of the Bragg curve, is current topic of investigation. This work aims to study in vitro clonogenic survival and DNA damage foci kinetics of a head and neck squamous cell carcinoma cell line at various positions along a double passively scattered Bragg curve. Complementary in silico studies are conducted to gain insights into the link between cell survival variations, experimentally yielded foci and the number and complexity of double strand breaks (DSBs). 
+  Materials and methods
+  Proton irradiations are performed at the HollandPTC R&D proton beamline, using a double passively scattered setup. A custom water phantom setup is employed to accurately position the samples within the Bragg curve. FaDu cells are irradiated at the proximal 36 % point of the Bragg peak, (P36), proximal 80 % point of the Bragg peak (P80) and distal 20 % point of the Bragg peak (D20), with dose-averaged mean lineal energies (yD¯) of 1.10 keV/μm, 1.80 keV/μm and 7.25 keV/μm, respectively.
+  Results
+  Clonogenic survival correlates strongly with yD¯, showing similar survival for P36 (D37%=3.0 Gy) and P80 (D37%=2.9 Gy), but decreased survival for D20 (D37% = 1.6 Gy). D20 irradiated samples exhibit increased 53BP1 foci shortly after irradiation, slower resolution of the foci, and larger residual 53BP1 foci after 24 h, indicating unrepaired complex breaks. These experimental observations are supported by the in silico study which demonstrates that irradiation at D20 leads to a 1.7-fold increase in complex DSBs with respect to the total number of strand breaks compared to P36 and P80.
+  Conclusions
+  This combined approach provides valuable insights into the cellular and molecular effect of proton radiation, emphasizing the increased DNA damage complexity at the distal end of the Bragg curve, and has the potential to enhance the efficacy of proton therapy.}
+}
+
+@article{CHATZIPAPAS2024104839,
+  title = {Development of a novel computational technique to create DNA and cell geometrical models for Geant4-DNA},
+  journal = {Physica Medica},
+  volume = {127},
+  pages = {104839},
+  year = {2024},
+  issn = {1120-1797},
+  doi = {https://doi.org/10.1016/j.ejmp.2024.104839},
+  url = {https://www.sciencedirect.com/science/article/pii/S1120179724010962},
+  author = {Konstantinos P. Chatzipapas and Hoang Ngoc Tran and Milos Dordevic and Dousatsu Sakata and Sebastien Incerti and Dimitris Visvikis and Julien Bert},
+  keywords = {Geant4-DNA, DNA geometries, DNA damage response, Monte Carlo simulations},
+  abstract = {Background
+  This study aimed to develop a novel human cell geometry for the Geant4-DNA simulation toolkit that explicitly incorporates all 23 chromosome pairs of the human cell. This approach contrasts with the existing, default human cell, geometrical model, which utilizes a continuous Hilbert curve.
+  Methods
+  A Python-based tool named “complexDNA” was developed to facilitate the design of both simple and complex DNA geometries. This tool was employed to construct a human cell geometry with individual pairs of chromosomes. Subsequently, the performance of this chromosomal model was compared to the standard human cell model provided in the “molecularDNA” Geant4-DNA example.
+  Results
+  Simulations using the new chromosomal model revealed minimal discrepancies in DNA damage yield and fragment size distribution compared to the default human cell model. Notably, the chromosomal model demonstrated significant computational efficiency, requiring approximately three times less simulation time to achieve equivalent results.
+  Conclusions
+  This work highlights the importance of incorporating chromosomal structure into human cell models for radiation biology research. The “complexDNA” tool offers a valuable resource for creating intricate DNA structures for future studies. Further refinements, such as implementing smaller voxels for euchromatin regions, are proposed to enhance the model’s accuracy.},
+  selected={true}
+}
+
+@article{Fira02102024,
+  author = {Aleksandra M. Ristić Fira and Otilija D. Keta and Vladana D. Petković and Miloš Đorđević and Giada Petringa and Serena Fattori and Roberto Catalano and Giuseppe Pablo Cirrone and Giacomo Cuttone and Dousatsu Sakata and Ngoc Hoang Tran and Konstantinos Chatzipapas and Sebastien Incerti and Ivan M. Petrović},
+  title = {In vitro validation of helium ion irradiations as a function of linear energy transfer in radioresistant human malignant cells},
+  journal = {International Journal of Radiation Biology},
+  volume = {100},
+  number = {10},
+  pages = {1426-1437},
+  year = {2024},
+  publisher = {Taylor \& Francis},
+  doi = {10.1080/09553002.2024.2373752},
+  note ={PMID: 39058324},
+  URL = {https://doi.org/10.1080/09553002.2024.2373752},
+  eprint = {https://doi.org/10.1080/09553002.2024.2373752},
+  abstract = { Based on considerable interest to enlarge the experimental database of radioresistant cells after their irradiation with helium ions, HTB140, MCF-7 and HTB177 human malignant cells are exposed to helium ion beams having different linear energy transfer (LET). The cells are irradiated along the widened 62 MeV/u helium ion Bragg peak, providing LET of 4.9, 9.8, 23.4 and 36.8 keV/µm. Numerical simulations with the Geant4 toolkit are used for the experimental design. Cell survival is evaluated and compared with reference γ-rays. DNA double strand breaks are assessed via γ-H2AX foci. With the increase of LET, surviving fractions at 2 Gy decrease, while RBE (2 Gy, γ) gradually increase. For HTB140 cells, above the dose of 4 Gy, a slight saturation of survival is observed while the increase of RBE (2 Gy, γ) remains unaffected. With the increase of LET the increase of γ-H2AX foci is revealed at 0.5 h after irradiation. There is no significant difference in the number of foci between the cell lines for the same LET. From 0.5 to 24 h, the number of foci drops reaching its residual level. For each time point, there are small differences in DNA DSB among the three cell lines. Analyses of data acquired for the three cell lines irradiated by helium ions, having different LET, reveal high elimination capacity and creation of a large number of DNA DSB with respect to γ-rays, and are between those reported for protons and carbon ions. }
+}
+
+@article{Beaudier12082024,
+  title = {Quantitative analysis of dose dependent {DNA} fragmentation in dry {pBR322} plasmid using long read sequencing and {Monte} {Carlo} simulations},
+  volume = {14},
+  issn = {2045-2322},
+  url = {https://doi.org/10.1038/s41598-024-69406-3},
+  doi = {10.1038/s41598-024-69406-3},
+  abstract = {Exposure to ionizing radiation can induce genetic aberrations via unrepaired DNA strand breaks. To investigate quantitatively the dose–effect relationship at the molecular level, we irradiated dry pBR322 plasmid DNA with 3 MeV protons and assessed fragmentation yields at different radiation doses using long-read sequencing from Oxford Nanopore Technologies. This technology applied to a reference DNA model revealed dose-dependent fragmentation, as evidenced by read length distributions, showing no discernible radiation sensitivity in specific genetic sequences. In addition, we propose a method for directly measuring the single-strand break (SSB) yield. Furthermore, through a comparative study with a collection of previous works on dry DNA irradiation, we show that the irradiation protocol leads to biases in the definition of ionizing sources. We support this scenario by discussing the size distributions of nanopore sequencing reads in the light of Geant4 and Geant4-DNA simulation toolkit predictions. We show that integrating long-read sequencing technologies with advanced Monte Carlo simulations paves a promising path toward advancing our comprehension and prediction of radiation-induced DNA fragmentation.},
+  number = {1},
+  journal = {Scientific Reports},
+  author = {Beaudier, Pierre and Zein, Sara A. and Chatzipapas, Konstantinos and Ngoc Tran, Hoang and Devès, Guillaume and Plawinski, Laurent and Liénard, Rémy and Dupuy, Denis and Barberet, Philippe and Incerti, Sébastien and Gobet, Franck and Seznec, Hervé},
+  month = aug,
+  year = {2024},
+  pages = {18650}
+}
+
+@article{TUANANH2024103422,
+  title = {“dsbandrepair” – An updated Geant4-DNA simulation tool for evaluating the radiation-induced DNA damage and its repair},
+  journal = {Physica Medica},
+  volume = {124},
+  pages = {103422},
+  year = {2024},
+  issn = {1120-1797},
+  doi = {https://doi.org/10.1016/j.ejmp.2024.103422},
+  url = {https://www.sciencedirect.com/science/article/pii/S1120179724002175},
+  author = {Le {Tuan Anh} and Tran {Ngoc Hoang} and Yann Thibaut and Konstantinos Chatzipapas and Dousatsu Sakata and Sébastien Incerti and Carmen Villagrasa and Yann Perrot},
+  keywords = {Monte Carlo simulation chain, Geant4-DNA toolkit, DSB calculations, Biological endpoints calculations},
+  abstract = {Purpose
+  Interdisciplinary scientific communities have shown large interest to achieve a mechanistic description of radiation-induced biological damage, aiming to predict biological results produced by different radiation quality exposures. Monte Carlo track-structure simulations are suitable and reliable for the study of early DNA damage induction used as input for assessing DNA damage. This study presents the most recent improvements of a Geant4-DNA simulation tool named “dsbandrepair”.
+  Methods
+  “dsbandrepair” is a Monte Carlo simulation tool based on a previous code (FullSim) that estimates the induction of early DNA single-strand breaks (SSBs) and double-strand breaks (DSBs). It uses DNA geometries generated by the DNAFabric computational tool for simulating the induction of early single-strand breaks (SSBs) and double-strand breaks (DSBs). Moreover, the new tool includes some published radiobiological models for survival fraction and un-rejoined DSB. Its application for a human fibroblast cell and human umbilical vein endothelial cell containing both heterochromatin and euchromatin was conducted. In addition, this new version offers the possibility of using the new IRT-syn method for computing the chemical stage.
+  Results
+  The direct and indirect strand breaks, SSBs, DSBs, and damage complexity obtained in this work are equivalent to those obtained with the previously published simulation tool when using the same configuration in the physical and chemical stages. Simulation results on survival fraction and un-rejoined DSB are in reasonable agreement with experimental data.
+  Conclusions
+  “dsbandrepair” is a tool for simulating DNA damage and repair, benchmarked against experimental data. It has been released as an advanced example in Geant4.11.2.}
+}
+
+@article{Petrou10082024,
+  title = {Investigation of Machine and Deep Learning Techniques to Detect HPV Status.},
+  volume = {14},
+  issn = {2075-4426},
+  doi = {10.3390/jpm14070737},
+  abstract = {BACKGROUND: This study investigated alternative, non-invasive methods for human papillomavirus (HPV) detection in head and neck cancers (HNCs). We compared two  approaches: analyzing computed tomography (CT) scans with a Deep Learning (DL)  model and using radiomic features extracted from CT images with machine learning  (ML) models. METHODS: Fifty patients with histologically confirmed HNC were  included. We first trained a modified ResNet-18 DL model on CT data to predict  HPV status. Next, radiomic features were extracted from manually segmented  regions of interest near the oropharynx and used to train four ML models  (K-Nearest Neighbors, logistic regression, decision tree, random forest) for the  same purpose. RESULTS: The CT-based model achieved the highest accuracy (90\%) in  classifying HPV status. Among the ML models, K-Nearest Neighbors performed best  (80\% accuracy). Weighted Ensemble methods combining the CT-based model with each  ML model resulted in moderate accuracy improvements (70-90\%). CONCLUSIONS: Our  findings suggest that CT scans analyzed by DL models hold promise for  non-invasive HPV detection in HNC. Radiomic features, while less accurate in this  study, offer a complementary approach. Future research should explore larger  datasets and investigate the potential of combining DL and radiomic techniques.},
+  language = {eng},
+  number = {7},
+  journal = {Journal of personalized medicine},
+  author = {Petrou, Efstathia and Chatzipapas, Konstantinos and Papadimitroulas, Panagiotis and Andrade-Miranda, Gustavo and Katsakiori, Paraskevi F. and Papathanasiou, Nikolaos D. and Visvikis, Dimitris and Kagadis, George C.},
+  month = {july},
+  year = {2024},
+  pmid = {39063991},
+  pmcid = {PMC11278505},
+  note = {Place: Switzerland},
+  keywords = {artificial intelligence, cancer, deep learning, ensemble models, HPV status},
+  selected = {true}
+}
+
+@article{Chatzipapas28052024,
+  AUTHOR = {Chatzipapas, Konstantinos and Nika, Anastasia and Krimpenis, Agathoklis A.},
+  TITLE = {Introduction of Hybrid Additive Manufacturing for Producing Multi-Material Artificial Organs for Education and In Vitro Testing},
+  JOURNAL = {Designs},
+  VOLUME = {8},
+  YEAR = {2024},
+  NUMBER = {3},
+  ARTICLE-NUMBER = {51},
+  URL = {https://www.mdpi.com/2411-9660/8/3/51},
+  ISSN = {2411-9660},
+  ABSTRACT = {The evolution of 3D printing has ushered in accessibility and cost-effectiveness, spanning various industries including biomedical engineering, education, and microfluidics. In biomedical engineering, it encompasses bioprinting tissues, producing prosthetics, porous metal orthopedic implants, and facilitating educational models. Hybrid Additive Manufacturing approaches and, more specifically, the integration of Fused Deposition Modeling (FDM) with bio-inkjet printing offers the advantages of improved accuracy, structural support, and controlled geometry, yet challenges persist in cell survival, interaction, and nutrient delivery within printed structures. The goal of this study was to develop and present a low-cost way to produce physical phantoms of human organs that could be used for research and training, bridging the gap between the use of highly detailed computational phantoms and real-life clinical applications. To this purpose, this study utilized anonymized clinical Computed Tomography (CT) data to create a liver physical model using the Creality Ender-3 printer. Polylactic Acid (PLA), Polyvinyl Alcohol (PVA), and light-bodied silicone (Polysiloxane) materials were employed for printing the liver including its veins and arteries. In brief, PLA was used to create a mold of a liver to be filled with biocompatible light-bodied silicone. Molds of the veins and arteries were printed using PVA and then inserted in the liver model to create empty channel. In addition, the PVA was then washed out by the final product using warm water. Despite minor imperfections due to the printer’s limitations, the final product imitates the computational model accurately enough. Precision adjustments in the design phase compensated for this variation. The proposed novel low-cost 3D printing methodology successfully produced an anatomically accurate liver physical model, presenting promising applications in medical education, research, and surgical planning. Notably, its implications extend to medical training, personalized medicine, and organ transplantation. The technology’s potential includes injection training for medical professionals, personalized anthropomorphic phantoms for radiation therapy, and the future prospect of creating functional living organs for organ transplantation, albeit requiring significant interdisciplinary collaboration and financial investment. This technique, while showcasing immense potential in biomedical applications, requires further advancements and interdisciplinary cooperation for its optimal utilization in revolutionizing medical science and benefiting patient healthcare.},
+  DOI = {10.3390/designs8030051},
+  selected = {true}
+}
+
+@misc{mellak2024fasttrackf18positronpaths,
+  title={Fast-Track of F-18 Positron paths simulations using GANs}, 
+  author={Youness Mellak and Konstantinos Chatzipapas and Alexandre Bousse and Catherine Chez-Le Rest and Dimitris Visvikis and Julien Bert},
+  year={2024},
+  eprint={2403.06307},
+  archivePrefix={arXiv},
+  primaryClass={physics.med-ph},
+  url={https://arxiv.org/abs/2403.06307}, 
+}
+
+@article{Stamouli30082023,
+  AUTHOR = {Stamouli, Ioanna and Nanos, Thomas and Chatzipapas, Konstantinos and Papadimitroulas, Panagiotis and Zoglopitou, Lydia-Aggeliki and Kalathas, Theodoros and Katsakiori, Paraskevi F. and Makridou, Anna and Kagadis, George C.},
+  TITLE = {Dosimetric Evaluation of 177Lu Peptide Receptor Radionuclide Therapy Using GATE and Planet Dose},
+  JOURNAL = {Applied Sciences},
+  VOLUME = {13},
+  YEAR = {2023},
+  NUMBER = {17},
+  ARTICLE-NUMBER = {9836},
+  URL = {https://www.mdpi.com/2076-3417/13/17/9836},
+  ISSN = {2076-3417},
+  ABSTRACT = {This study aimed to compare the commercial dosimetric software Planet® Dose (version 3.1.1) from DOSIsoft and the open-source toolkit GATE. Dosimetry was performed for six patients receiving 200 mCi of Lutathera® every 8 weeks for four treatment cycles. For the dose calculation with Planet®, SPECT/CT images were acquired at 4, 24, 72 and 192 h post-injection. After the registration of all the time points to T0, the organs of interest (OOIs) were segmented. Time-activity curves were produced and the absorbed dose was calculated using the bi- and tri-exponential fitting methods. Regarding GATE simulations, the SPECT images of the 24 h time point were utilized for the radiopharmaceutical biodistribution in the OOIs and the attenuation maps were produced using the CT images. For liver and spleen, the average relative difference between GATE and Planet® was 9.6% and 11.1% for biexponential and 12.4% and 30.5% for triexponential fitting, respectively. The right and left kidneys showed differences up to 10.7% and 10.4% for the biexponential and up to 60.6% and 11.9% for the triexponential model, respectively. The absorbed dose calculated with GATE, Planet®(bi-exp) and Planet®(tri-exp) was in agreement with the literature. The results of the bi-exponential fitting were similar to the GATE-resulted calculations, while the tri-exponential fitting had a higher relative difference.},
+  DOI = {10.3390/app13179836}
+}
+
+@article{CHATZIPAPAS2023102613,
+  title = {Geant4-DNA simulation of human cancer cells irradiation with helium ion beams},
+  journal = {Physica Medica},
+  volume = {112},
+  pages = {102613},
+  year = {2023},
+  issn = {1120-1797},
+  doi = {https://doi.org/10.1016/j.ejmp.2023.102613},
+  url = {https://www.sciencedirect.com/science/article/pii/S112017972300090X},
+  author = {Konstantinos Chatzipapas and Milos Dordevic and Sara Zivkovic and Ngoc Hoang Tran and Nathanael Lampe and Dousatsu Sakata and Ivan Petrovic and Aleksandra Ristic-Fira and Wook-Geun Shin and Sara Zein and Jeremy M.C. Brown and Ioanna Kyriakou and Dimitris Emfietzoglou and Susanna Guatelli and Sebastien Incerti},
+  keywords = {Geant4-DNA, MolecularDNA, Simulation, Cancer, Helium, Irradiation},
+  abstract = {Purpose:
+  This study aimed to develop a computational environment for the accurate simulation of human cancer cell irradiation using Geant4-DNA. New cell geometrical models were developed and irradiated by alpha particle beams to induce DNA damage. The proposed approach may help further investigation of the benefits of external alpha irradiation therapy.
+  Methods:
+  The Geant4-DNA Monte Carlo (MC) toolkit allows the simulation of cancer cell geometries that can be combined with accurate modelling of physical, physicochemical and chemical stages of liquid water irradiation, including radiolytic processes. Geant4-DNA is used to calculate direct and non-direct DNA damage yields, such as single and double strand breaks, produced by the deposition of energy or by the interaction of DNA with free radicals.
+  Results:
+  In this study, the “molecularDNA” example application of Geant4-DNA was used to quantify early DNA damage in human cancer cells upon irradiation with alpha particle beams, as a function of linear energy transfer (LET). The MC simulation results are compared to experimental data, as well as previously published simulation data. The simulation results agree well with the experimental data on DSB yields in the lower LET range, while the experimental data on DSB yields are lower than the results obtained with the “molecularDNA” example in the higher LET range.
+  Conclusion:
+  This study explored and demonstrated the possibilities of the Geant4-DNA toolkit together with the “molecularDNA” example to simulate the helium beam irradiation of cancer cell lines, to quantify the early DNA damage, or even the following DNA damage response.},
+  selected = {true}
+}
+
+@article{Eleftheriadis07042023,
+  doi = {10.1088/1361-6560/acc4a5},
+  url = {https://dx.doi.org/10.1088/1361-6560/acc4a5},
+  year = {2023},
+  month = {apr},
+  publisher = {IOP Publishing},
+  volume = {68},
+  number = {8},
+  pages = {084004},
+  author = {Eleftheriadis, Vasileios and Savvidis, Georgios and Paneta, Valentina and Chatzipapas, Konstantinos and Kagadis, George C and Papadimitroulas, Panagiotis},
+  title = {A framework for prediction of personalized pediatric nuclear medical dosimetry based on machine learning and Monte Carlo techniques},
+  journal = {Physics in Medicine & Biology},
+  abstract = {Objective: A methodology is introduced for the development of an internal dosimetry prediction toolkit for nuclear medical pediatric applications. The proposed study exploits Artificial Intelligence techniques using Monte Carlo simulations as ground truth for accurate prediction of absorbed doses per organ prior to the imaging acquisition considering only personalized anatomical characteristics of any new pediatric patient. Approach: GATE Monte Carlo simulations were performed using a population of computational pediatric models to calculate the specific absorbed dose rates (SADRs) in several organs. A simulated dosimetry database was developed for 28 pediatric phantoms (age range 2–17 years old, both genders) and 5 different radiopharmaceuticals. Machine Learning regression models were trained on the produced simulated dataset, with leave one out cross validation for the prediction model evaluation. Hyperparameter optimization and ensemble learning techniques for a variation of input features were applied for achieving the best predictive power, leading to the development of a SADR prediction toolkit for any new pediatric patient for the studied organs and radiopharmaceuticals. Main results. SADR values for 30 organs of interest were calculated via Monte Carlo simulations for 28 pediatric phantoms for the cases of five radiopharmaceuticals. The relative percentage uncertainty in the extracted dose values per organ was lower than 2.7%. An internal dosimetry prediction toolkit which can accurately predict SADRs in 30 organs for five different radiopharmaceuticals, with mean absolute percentage error on the level of 8% was developed, with specific focus on pediatric patients, by using Machine Learning regression algorithms, Single or Multiple organ training and Artificial Intelligence ensemble techniques. Significance: A large simulated dosimetry database was developed and utilized for the training of Machine Learning models. The developed predictive models provide very fast results (&lt;2 s) with an accuracy &gt;90% with respect to the ground truth of Monte Carlo, considering personalized anatomical characteristics and the biodistribution of each radiopharmaceutical. The proposed method is applicable to other medical dosimetry applications in different patients’ populations.}
+}
+
+@article{Chatzipapas13022023,
+  author = {Chatzipapas, Konstantinos P. and Tran, Ngoc Hoang and Dordevic, Milos and Zivkovic, Sara and Zein, Sara and Shin, Wook-Geun and Sakata, Dousatsu and Lampe, Nathanael and Brown, Jeremy M. C. and Ristic-Fira, Aleksandra and Petrovic, Ivan and Kyriakou, Ioanna and Emfietzoglou, Dimitris and Guatelli, Susanna and Incerti, Sébastien},
+  title = {Simulation of DNA damage using Geant4-DNA: an overview of the “molecularDNA” example application},
+  journal = {Precision Radiation Oncology},
+  volume = {7},
+  number = {1},
+  pages = {4-14},
+  keywords = {DNA damage, double strand breaks, Geant4-DNA, molecularDNA, Monte Carlo simulations},
+  doi = {https://doi.org/10.1002/pro6.1186},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pro6.1186},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro6.1186},
+  abstract = {Abstract Purpose The scientific community shows great interest in the study of DNA damage induction, DNA damage repair, and the biological effects on cells and cellular systems after exposure to ionizing radiation. Several in silico methods have been proposed so far to study these mechanisms using Monte Carlo simulations. This study outlines a Geant4-DNA example application, named “molecularDNA”, publicly released in the 11.1 version of Geant4 (December 2022). Methods It was developed for novice Geant4 users and requires only a basic understanding of scripting languages to get started. The example includes two different DNA-scale geometries of biological targets, namely “cylinders” and “human cell”. This public version is based on a previous prototype and includes new features, such as: the adoption of a new approach for the modeling of the chemical stage, the use of the standard DNA damage format to describe radiation-induced DNA damage, and upgraded computational tools to estimate DNA damage response. Results Simulation data in terms of single-strand break and double-strand break yields were produced using each of the available geometries. The results were compared with the literature, to validate the example, producing less than 5\% difference in all cases. Conclusion: “molecularDNA” is a prototype tool that can be applied in a wide variety of radiobiology studies, providing the scientific community with an open-access base for DNA damage quantification calculations. New DNA and cell geometries for the “molecularDNA” example will be included in future versions of Geant4-DNA.},
+  year = {2023},
+  selected = {true}
+}
+
+@article{Sarrut14052021,
+  doi = {10.1088/1361-6560/abf276},
+  url = {https://dx.doi.org/10.1088/1361-6560/abf276},
+  year = {2021},
+  month = {may},
+  publisher = {IOP Publishing},
+  volume = {66},
+  number = {10},
+  pages = {10TR03},
+  author = {Sarrut, David and Bała, Mateusz and Bardiès, Manuel and Bert, Julien and Chauvin, Maxime and Chatzipapas, Konstantinos and Dupont, Mathieu and Etxebeste, Ane and M Fanchon, Louise and Jan, Sébastien and Kayal, Gunjan and S Kirov, Assen and Kowalski, Paweł and Krzemien, Wojciech and Labour, Joey and Lenz, Mirjam and Loudos, George and Mehadji, Brahim and Ménard, Laurent and Morel, Christian and Papadimitroulas, Panagiotis and Rafecas, Magdalena and Salvadori, Julien and Seiter, Daniel and Stockhoff, Mariele and Testa, Etienne and Trigila, Carlotta and Pietrzyk, Uwe and Vandenberghe, Stefaan and Verdier, Marc-Antoine and Visvikis, Dimitris and Ziemons, Karl and Zvolský, Milan and Roncali, Emilie},
+  title = {Advanced Monte Carlo simulations of emission tomography imaging systems with GATE},
+  journal = {Physics in Medicine & Biology},
+  abstract = {Built on top of the Geant4 toolkit, GATE is collaboratively developed for more than 15 years to design Monte Carlo simulations of nuclear-based imaging systems. It is, in particular, used by researchers and industrials to design, optimize, understand and create innovative emission tomography systems. In this paper, we reviewed the recent developments that have been proposed to simulate modern detectors and provide a comprehensive report on imaging systems that have been simulated and evaluated in GATE. Additionally, some methodological developments that are not specific for imaging but that can improve detector modeling and provide computation time gains, such as Variance Reduction Techniques and Artificial Intelligence integration, are described and discussed.}
+}
+
+@article{Chatzipapa03032021,
+  author = {Chatzipapas, Konstantinos P. and Papadimitroulas, Panagiotis and Loudos, George and Papanikolaou, Niko and Kagadis, George C.},
+  title = {IDDRRA: A novel platform, based on Geant4-DNA to quantify DNA damage by ionizing radiation},
+  journal = {Medical Physics},
+  volume = {48},
+  number = {5},
+  pages = {2624-2636},
+  keywords = {DNA damage response - DDR, Geant4-DNA, microdosimetry, Monte Carlo simulations},
+  doi = {https://doi.org/10.1002/mp.14817},
+  url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14817},
+  eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14817},
+  abstract = {Purpose This study proposes a novel computational platform that we refer to as IDDRRA (DNA Damage Response to Ionizing RAdiation), which uses Monte Carlo (MC) simulations to score radiation induced DNA damage. MC simulations provide results of high accuracy on the interaction of radiation with matter while scoring the energy deposition based on state-of-the-art physics and chemistry models and probabilistic methods. Methods The IDDRRA software is based on the Geant4-DNA toolkit together with new tools that were developed for the purpose of this study, including a new algorithm that was developed in Python for the design of the DNA molecules. New classes were developed in C++ to integrate the GUI and produce the simulation’s output in text format. An algorithm was also developed to analyze the simulation’s output in terms of energy deposition, Single Strand Breaks (SSB), Double Strand Breaks (DSB) and Cluster Damage Sites (CDS). Finally, a new tool was developed to implement probabilistic SSB and DSB repair models using MC techniques. Results This article provides the first benchmarks that the user of the IDDRRA tool can use to validate the functionality of the software as well as to provide a starting point to produce different types of DNA simulations. These benchmarks incorporate different kind of particles (e-, e+, protons, electron spectrum) and DNA molecules. Conclusion We have developed the IDDRRA tool and demonstrated its use to study various aspects of the modeling and simulation of a DNA irradiation experiment. The tool is expandable and can be expanded by other users with new benchmarks and applications based on the user’s needs and experience. New functionality will be added over time, including the quantification of the indirect damage.},
+  year = {2021}
+}
+
+@inproceedings{KagadisEu2020,
+  title        = {Dosimetry and dosimetric challenges in paediatric radiology and radiotherapy.},
+  author       = {George C. Kagadis and Konstantinos Chatzipapas and Theodora Kostou and Dimitris Plachouris and Panagiotis Papadimitroulas},
+  year         = {2020},
+  month        = {December},
+  booktitle    = {‘Radiosensitivity’ of children – Health issues after radiation exposure at young age – EU Scientific Seminar 2020},
+  publisher    = {Publications Office of the European Union},
+  pages        = {60-91},
+  editor       = {European Commission and Directorate-General for Energy},
+  organization = {European Commission and Directorate-General for Energy},
+  doi = {10.2833/769468},
+  url = {https://data.europa.eu/doi/10.2833/769468},  
+  abstract = {Patient specific dosimetry is of paramount importance in paediatric applications due to their significantly increased radiation sensitivity in comparison to adults. Paediatric patients have a higher risk to develop cancer compared to adults that obtain an equivalent amount of radiation dose. Exposure of children to ionising radiation has a longer expectancy in which it may provoke the development of radiation-induced issues such as cancer or as future parents, may increase hazard for passing on radiation-induced genetic disorders in the following generations. Considering the individual characteristics of children, it is important to reconsider diagnostic applications and therapy schemes in terms of personalisation and calculation of exact amount of absorbed dose per organ and patient. The TRS 457  (IAEA, 2007) recommendation, suggests that dose measurements should be made whenever possible, both on patients and phantoms. The use of phantoms enables repeatability and standardisation of measurements as well as a rapid evaluation of results, but not accurate and personalised dose estimation for a specific patient. Clinical measurements could complement the above outcome and are usually made using Thermoluminescent dosimeters (TLDs) or Optically Stimulated Luminescence dosimeters (OSLs). The main problem with TLDs is that there is typically a 0.1 mGy minimum absorbed dose to produce a reasonably accurate result. Modern techniques to assess organ and effective dose induced by medical imaging procedures are based on physical or computational phantoms.  Computer-based phantoms have the ability to represent a limitless amount of body types and have the potential to assess patient-specific organ and effective dose.  Recently, researchers have focused their studies on the production of an ideal ‘hybrid’ model as an evolution to computerised models. This hybrid model combines the realism of a voxelized phantom and the flexibility of a mathematical phantom. The anatomical virtual anthropomorphic models have been evolved a lot to successfully meet the standards of clinical practice.  Monte Carlo (MC) simulations on the other hand are broadly acknowledged as a fundamental technique to investigate the physics of nuclear medicine, radiology, radiation therapy, and dosimetry. When the MC methods are combined with precise paediatric computational phantoms, they may serve as the gold standard for the accurate assessment of absorbed dose in terms of personalised dosimetry. Organ absorbed dose is essential for paediatric patients, where major organ variations appear in comparison to adults’ anatomies.  The establishment and the optimisation of dosimetry protocols in paediatric acquisitions is therefore of high social and scientific interest. At the same time, there are critical concerns and multiple parameters to consider. The first challenge is the computational time and the need of extensive computing resources for the implementation of precise realistic MC simulations, with low statistical uncertainties, that consider patient specific characteristics. The second challenge is the establishment of several clinical protocols used in paediatric diagnosis and therapy based on individualised patient information. Finally, in clinical practice absolute radiation dose measurements to the various organs and to the patient in total is not an easy task to perform. The rapid evolution of computer science in terms of Artificial Intelligence can play a key role in the optimisation of the established paediatric clinical protocols in terms of personalisation.},
+}
+
+@article{Chatzipapas22102021,
+  AUTHOR = {Chatzipapas, Konstantinos P. and Plachouris, Dimitris and Papadimitroulas, Panagiotis and Mountris, Konstantinos A. and Bert, Julien and Visvikis, Dimitris and Mihailidis, Dimitris and Kagadis, George C.},
+  TITLE = {Standardization and Validation of Brachytherapy Seeds’ Modelling Using GATE and GGEMS Monte Carlo Toolkits},
+  JOURNAL = {Cancers},
+  VOLUME = {13},
+  YEAR = {2021},
+  NUMBER = {21},
+  ARTICLE-NUMBER = {5315},
+  URL = {https://www.mdpi.com/2072-6694/13/21/5315},
+  PubMedID = {34771479},
+  ISSN = {2072-6694},
+  ABSTRACT = {This study aims to validate GATE and GGEMS simulation toolkits for brachytherapy applications and to provide accurate models for six commercial brachytherapy seeds, which will be freely available for research purposes. The AAPM TG-43 guidelines were used for the validation of two Low Dose Rate (LDR), three High Dose Rate (HDR), and one Pulsed Dose Rate (PDR) brachytherapy seeds. Each seed was represented as a 3D model and then simulated in GATE to produce one single Phase-Space (PHSP) per seed. To test the validity of the simulations’ outcome, referenced data (provided by the TG-43) was compared with GATE results. Next, validation of the GGEMS toolkit was achieved by comparing its outcome with the GATE MC simulations, incorporating clinical data. The simulation outcomes on the radial dose function (RDF), anisotropy function (AF), and dose rate constant (DRC) for the six commercial seeds were compared with TG-43 values. The statistical uncertainty was limited to 1% for RDF, to 6% (maximum) for AF, and to 2.7% (maximum) for the DRC. GGEMS provided a good agreement with GATE when compared in different situations: (a) Homogeneous water sphere, (b) heterogeneous CT phantom, and (c) a realistic clinical case. In addition, GGEMS has the advantage of very fast simulations. For the clinical case, where TG-186 guidelines were considered, GATE required 1 h for the simulation while GGEMS needed 162 s to reach the same statistical uncertainty. This study produced accurate models and simulations of their emitted spectrum of commonly used commercial brachytherapy seeds which are freely available to the scientific community. Furthermore, GGEMS was validated as an MC GPU based tool for brachytherapy. More research is deemed necessary for the expansion of brachytherapy seed modeling.},
+  DOI = {10.3390/cancers13215315}
+}
+
+@article{Chatzipapas26032020,
+  AUTHOR = {Chatzipapas, Konstantinos P. and Papadimitroulas, Panagiotis and Emfietzoglou, Dimitris and Kalospyros, Spyridon A. and Hada, Megumi and Georgakilas, Alexandros G. and Kagadis, George C.},
+  TITLE = {Ionizing Radiation and Complex DNA Damage: Quantifying the Radiobiological Damage Using Monte Carlo Simulations},
+  JOURNAL = {Cancers},
+  VOLUME = {12},
+  YEAR = {2020},
+  NUMBER = {4},
+  ARTICLE-NUMBER = {799},
+  URL = {https://www.mdpi.com/2072-6694/12/4/799},
+  PubMedID = {32225023},
+  ISSN = {2072-6694},
+  ABSTRACT = {Ionizing radiation is a common tool in medical procedures. Monte Carlo (MC) techniques are widely used when dosimetry is the matter of investigation. The scientific community has invested, over the last 20 years, a lot of effort into improving the knowledge of radiation biology. The present article aims to summarize the understanding of the field of DNA damage response (DDR) to ionizing radiation by providing an overview on MC simulation studies that try to explain several aspects of radiation biology. The need for accurate techniques for the quantification of DNA damage is crucial, as it becomes a clinical need to evaluate the outcome of various applications including both low- and high-energy radiation medical procedures. Understanding DNA repair processes would improve radiation therapy procedures. Monte Carlo simulations are a promising tool in radiobiology studies, as there are clear prospects for more advanced tools that could be used in multidisciplinary studies, in the fields of physics, medicine, biology and chemistry. Still, lot of effort is needed to evolve MC simulation tools and apply them in multiscale studies starting from small DNA segments and reaching a population of cells.},
+  DOI = {10.3390/cancers12040799}
+}
+
+@article{Ricci01082019,
+  AUTHOR = {Ricci, Rita and Kostou, Theodora and Chatzipapas, Konstantinos and Fysikopoulos, Eleftherios and Loudos, George and Montalto, Luigi and Scalise, Lorenzo and Rinaldi, Daniele and David, Stratos},
+  TITLE = {Monte Carlo Optical Simulations of a Small FoV Gamma Camera. Effect of Scintillator Thicknesses and Septa Materials},
+  JOURNAL = {Crystals},
+  VOLUME = {9},
+  YEAR = {2019},
+  NUMBER = {8},
+  ARTICLE-NUMBER = {398},
+  URL = {https://www.mdpi.com/2073-4352/9/8/398},
+  ISSN = {2073-4352},
+  ABSTRACT = {Optical Monte Carlo simulations have been extensively used for the accurate modeling of light transport in scintillators for the improvement of detector designs. In the present work, a GATE Monte Carlo toolkit was used to study the effect of scintillator thicknesses and septa materials in the performance parameters evaluation of a commercially available small animal gamma-optical camera, named “γ-eye”. Firstly, the simulated γ-eye system was validated against experimental data. Then, part of the validated camera was modeled defining all of the optical properties by means of the UNIFIED model of GATE. Different CsI:Na scintillator crystals with varying thicknesses (from 4 mm up to 6 mm) and different reflector (septa) materials were simulated and compared in terms of sensitivity, light output and spatial resolution. Results have demonstrated the reliability of the model and indicate that the thicker crystal array presents higher sensitivity values, but degraded spatial resolution properties. Moreover, the use of black tape around crystals leads to an improvement in spatial resolution values compared to a standard white reflector material.},
+  DOI = {10.3390/cryst9080398}
+}
+
+@article{Chatzipapas12112018,
+  author = {Chatzipapas, Konstantinos P. and Papadimitroulas, Panagiotis and Obeidat, Mohammad and McConnell, Kristen A. and Kirby, Neil and Loudos, George and Papanikolaou, Niko and Kagadis, George C.},
+  title = {Quantification of DNA double-strand breaks using Geant4-DNA},
+  journal = {Medical Physics},
+  volume = {46},
+  number = {1},
+  pages = {405-413},
+  keywords = {DNA dosimetry, DNA double-strand breaks, Geant4-DNA, Monte Carlo simulations, radiobiology},
+  doi = {https://doi.org/10.1002/mp.13290},
+  url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13290},
+  eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.13290},
+  abstract = {Purpose This study aims to standardize the simulation procedure in measuring DNA double-strand breaks (DSBs), by using advanced Monte Carlo toolkits, and newly introduced experimental methods for DNA DSB measurement. Methods For the experimental quantification of DNA DSB, an innovative DNA dosimeter was used to produce experimental data. GATE in combination with Geant4-DNA toolkit were exploited to simulate the experimental environment. The PDB4DNA example of Geant4-DNA was upgraded and investigated. Parameters of the simulation such energy threshold (ET) for a strand break and base pair threshold (BPT) for a DSB were evaluated, depending on the dose. Results Simulations resulted to minimum differentiation in comparison to experimental data for ET = 19 ± 1 eV and BPT = 10 bp, and high differentiation for ET<17.5 eV or ET>22.5 eV and BPT = 10 bp. There was also small differentiation for ET = 17.5 eV and BPT = 6 bp. Uncertainty has been kept lower than 3\%. Conclusions This study includes first results on the quantification of DNA double-strand breaks. The energy spectrum of a LINAC was simulated and used for the first time to irradiate DNA molecules. Simulation outcome was validated on experimental data that were produced by a prototype DNA dosimeter.},
+  year = {2019}
+}
+
+@article{Papadimitroulas17102018,
+  author={Papadimitroulas, Panagiotis and Kostou, Theodora and Chatzipapas, Konstantinos and Visvikis, Dimitris and Mountris, Konstantinos A. and Jaouen, Vincent and Katsanos, Konstantinos and Diamantopoulos, Athanasios and Apostolopoulos, Dimitris and Balomenos, Athanasios and Kopsinis, Yiannis and Loudos, George and Alexakos, Christos and Karnabatidis, Dimitris and Kagadis, George C.},
+  journal={IEEE Transactions on Radiation and Plasma Medical Sciences}, 
+  title={A Review on Personalized Pediatric Dosimetry Applications Using Advanced Computational Tools}, 
+  year={2019},
+  volume={3},
+  number={6},
+  pages={607-620},
+  keywords={Dosimetry;Computed tomography;Pediatrics;Monte Carlo methods;Computational modeling;Protocols;Nuclear medicine;Monte Carlo (MC) simulations;pediatric computational models;personalized dosimetry},
+  doi={10.1109/TRPMS.2018.2876562},
+  abstract={Pediatric patient-specific dosimetry of ionizing radiation is of great scientific and social interest. Children provide a higher relative cancer-risk from exposure to ionizing radiation compared to adults. The proposed study reviews the recent techniques applied in pediatric imaging and therapy applications for dosimetry purposes. Modern medicine makes use of advance computational tools for the personalization of internal and external dosimetry, especially in the sensitive group of children. Several groups of pediatric computational models have been developed which are combined with Monte Carlo (MC) simulations, machine learning (ML) techniques, and image processing algorithms for accurate dosimetry assessment. More specifically, this paper reviews the dosimetry applications in pediatric diagnostic procedures, including computed tomography and nuclear medicine applications. Right afterward, the most recent applications in therapeutic brachytherapy protocols are presented, which is a rather sensitive procedure in pediatrics. Finally, modern tools for dosimetry optimization are discussed, reviewing the most indicative applications with: 1) MC simulations for pediatric dosimetry assessment; 2) pediatric computational models, widely used in medical applications; and 3) ML techniques that provide an alternative method for estimating individualized absorbed doses.},
+}
+
+@inproceedings{kalogiannakis2012,
+  title        = {Playing on the journey of sound. A teaching proposal for children in early childhood},
+  author       = {Michail Kalogiannakis and Charikleia Rekoumi and Konstantinos Chatzipapas},
+  year         = {2012},
+  month        = {June},
+  booktitle    = {Conference Proceedings 2012- Learning Science in the Society of Computers},
+  publisher    = {CRECIM, www.crecim.cat},
+  address      = {Barcelona, Spain},
+  series       = {COMPUTER BASED LEARNING IN SCIENCE},
+  pages        = {279-285},
+  editor       = {Roser Pintó and Víctor López and Cristina Simarro},
+  organization = {Centre for Research in Science and Mathematics Education (CRECIM)},
+  url = {https://ddd.uab.cat/pub/llibres/2012/150205/cblis-2012_proceedings_v7_3.pdf#page=290},
+  abstract = {In this study, we develop an educational scenario for teaching sound to young children by using ICT (Information and Communication Technologies). The principles of the “New School” of the Greek Pedagogical Institute (recently called Institute of Educational Policy [IEP]) are mainly theoretical tools for creating this scenario. Sound is a very important thematic area of natural sciences for kindergarten. The proposed curricular intervention propels communication and interaction among children, and therefore the configuration of interpersonal relations allows emotional expression connected to music, as well as the exchange of thoughts. Also, it propels to children the possibility of exchanging arguments and negotiating their ideas and opinions. Specifically, in this scenario, through systematic activities for children, we developed certain ways of acquainting them with hearing, one of the most basic human senses. The main goal is to teach children to appreciate the value of hearing and to understand the fundamental methods of creating sound. Another intention is to teach children to become more sensitive with people with hearing problems, more sensitive to noise pollution and to be more respectful during quit hours. Sound, as teaching material, can extend the cultivation of incentives that activate the participation of young children. Furthermore, it can reclaim children’ previous knowledge and experiences and guide them to the configuration, design and organization of chances to enrich various learning fields. With the proposed scenario children produce original work using ICT as means of expression, like conceptual mapping software, websites, videos and other ICT tools.}
+}
+
