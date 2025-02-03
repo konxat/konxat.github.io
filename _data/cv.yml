@@ -16,7 +16,7 @@
       year: 2021
       description:
         - Development of cell and protein scale dosimetry tools, and their applications for the optimization of therapeutic protocols using Monte Carlo simulations
-        - Description 2.
+        - Development of the IDDRRA toolkit.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -37,73 +37,68 @@
       year: 2014
       description:
         - Nuclear Physics, Elementary Particles, and Medical Physics
-        - Thesis title: CT Quality assurance
+        - Thesis was focussed on the investigation of CT systems Quality assurance
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist/ Post-doc Researcher
+      institution: LaTIM, INSERM, University of Brest
+      year: 2023-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Geant4-DNA MC simulations expert and AI development manager on advances about micro-dosimetry
+        # - Description 2.
+        - title: Projects
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - LuTaDose/ PIANOFORTE
+            - SECURE
+    - title: Research Scientist/ Post-doc Researcher
+      institution: LP2iB, CNRS, University of Bordeaux
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Geant4-DNA MC simulations and DNA geometries development expert
+        - title: Projects
+          contents:
+            - BioRadIII/ ESA
+            - ANR
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/konxat/complexDNA">al-folio</a>
+      year: 2024-now
+      description: A tool to develop prototype DNA and cellular geometries.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI applications on microdosimetry
+      # items:
+      #   - Description 1.
+      #   - Description 2.
+    - title: Microdosimetry and multilevel dosimetry
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Radionuclide Therapy 
+        - Boron-Neutron Capture Therapy
+        - FLASH effect of Ultra-High Dose-Rate Therapy
+        - Development of new computational cellular geometries
+    - title: Additive manufacturing
       items:
-        - Description 1.
-        - Description 2.
+        - Multilevel dosimetry
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Tennis, 
