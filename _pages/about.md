@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
 subtitle: <p><a href="https://latim.univ-brest.fr/" rel="external nofollow noopener" target="_blank">LaTIM</a>, INSERM, University of Brest, France. 
           Simulating the future of radiation therapy.</p>
