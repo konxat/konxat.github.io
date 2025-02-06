@@ -35,3 +35,5 @@ Konstantinos is part of the [Geant4](https://geant4.web.cern.ch/) and the [Geant
 His current research encompasses several key areas: developing novel methodologies using MC simulations and AI to quantify cellular response after irradiation, advancing personalized dosimetry methods with specialized pharmacokinetic models, exploring 3D bioprinting for creating physical phantoms for medical physics applications, developing online applications leveraging AI to support clinical staff in ionizing radiation techniques, and investigating the potential of digital twins to revolutionize clinical procedures.
 
 Anyone interested for collaboration can contact Konstantinos via e-mail: konstantinos.chatzipapas[at]univ-brest.fr
+
+You may visit our old [physicsmag](https://physicsfeed.blogspot.com), a place that we used to write (Greek) some interesting articles for the public.
