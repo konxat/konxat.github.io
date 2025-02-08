@@ -28,11 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style> .justify { text-align: justify; } </style>
+
+<div class="justify">
 Konstantinos is a Medical Physicist based in Brest, France, with research interests at the intersection of medical physics, artificial intelligence (AI), and advanced bioprinting technologies. He is passionate about developing innovative solutions to improve radiation bio-dosimetry and its clinical applications. Specifically, he has been working on the consequences of radiation to living matter using computational techniques, focusing on the quantification of cellular damage through Monte Carlo (MC) simulations and AI methods. He is keen to collaborate with researchers at all levels, including PhD candidates, Post-Doc researchers, and senior researchers.
 
 Konstantinos is part of the [Geant4](https://geant4.web.cern.ch/) and the [Geant4-DNA](http://geant4-dna.org/) collaboration, and is the contact person for AI developments within Geant4-DNA. He is actively developing the [molecularDNA](http://moleculardna.org/).
 
 His current research encompasses several key areas: developing novel methodologies using MC simulations and AI to quantify cellular response after irradiation, advancing personalized dosimetry methods with specialized pharmacokinetic models, exploring 3D bioprinting for creating physical phantoms for medical physics applications, developing online applications leveraging AI to support clinical staff in ionizing radiation techniques, and investigating the potential of digital twins to revolutionize clinical procedures.
+</div>
 
 Anyone interested for collaboration can contact Konstantinos via e-mail: konstantinos.chatzipapas[at]univ-brest.fr
 
