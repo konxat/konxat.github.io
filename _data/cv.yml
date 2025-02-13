@@ -71,7 +71,7 @@
   contents:
     - title: <a href="https://github.com/konxat/complexDNA">complexDNA</a>
       year: 2024-now
-      description: A tool to develop prototype DNA and cellular geometries. Chromosome can be designed and included in a cell, as separate volumes.
+      description: A tool to develop prototype DNA and cellular geometries. Chromosomes can be designed and included in a cell, as separate volumes.
     - title: <a href="http://moleculardna.org/">molecularDNA</a>
       year: 2022-now
       description: molecularDNA is a Geant4-DNA example built to allow easy simulation of radiation-induced DNA damage with flexible geometries and well defined damage parameters.
@@ -97,7 +97,9 @@
     - title: Microdosimetry and multilevel dosimetry
       items:
         - Radionuclide Therapy 
-        - Boron-Neutron Capture Therapy
+        - Boron-Neutron Capture Therapy (BNCT)
+        - Proton-Boron Fusioin Therapy (PBFT)
+        - Neutron Capture Enhanced Particle Therapy (NCEPT)
         - FLASH effect of Ultra-High Dose-Rate Therapy
         - Development of new computational cellular geometries
     - title: Additive manufacturing
