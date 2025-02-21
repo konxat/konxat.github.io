@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Special Issue of Appleid Sciences (MDPI), for publication in: Radiation Physics: Advances in DNA and Cellular Technologies. Visit the webpage and submit you article ! 
+Special Issue of Applied Sciences (MDPI) (IF: 2.5), for publication in: **Radiation Physics: Advances in DNA and Cellular Technologies**. Visit the webpage and submit your article ! 
 :sparkles: [link](https://www.mdpi.com/journal/applsci/special_issues/A260E07UVN) :sparkles:
