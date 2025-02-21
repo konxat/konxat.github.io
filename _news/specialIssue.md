@@ -5,5 +5,8 @@ inline: true
 related_posts: false
 ---
 
-Special Issue of Applied Sciences (MDPI) (IF: 2.5), for publication in: **Radiation Physics: Advances in DNA and Cellular Technologies**. Visit the webpage and submit your article ! 
+***Call for Papers: Special Issue of Applied Sciences (MDPI, IF: 2.5) on "Radiation Physics: Advances in DNA and Cellular Technologies"***
+
+We invite researchers and scientists to contribute to a special issue of *Applied Sciences* (MDPI) focused on **Radiation Physics: Advances in DNA and Cellular Technologies**.
+
 :sparkles: [link](https://www.mdpi.com/journal/applsci/special_issues/A260E07UVN) :sparkles:
