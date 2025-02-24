@@ -16,3 +16,4 @@ if (typeof gtag === "function") {
     gtag("config", "{{ site.google_analytics }}");
   });
 }
+gtag("event", "test_event", { "value": "debug" });
