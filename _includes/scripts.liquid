@@ -216,7 +216,20 @@
   <!-- Analytics -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-  <script src="{{ '/assets/js/google-analytics-setup.js' | relative_url | bust_file_cache }}"></script>
+  <!-- <script src="{{ '/assets/js/google-analytics-setup.js' | relative_url | bust_file_cache }}"></script> -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      window.dataLayer.push(arguments);
+    }
+    window.addEventListener("load", function() {
+      gtag("js", new Date());
+      gtag("config", "{{ site.google_analytics }}");
+      {% if site.environment == "development" %}
+      gtag("event", "test_event", { "value": "debug" });
+      {% endif %}
+    });
+  </script>
 {% endif %}
 
 {% if site.enable_cronitor_analytics %}
