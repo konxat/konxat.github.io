@@ -1,1 +1,1 @@
-window.dataLayer=window.dataLayer||[],window.addEventListener("load",(function(){function e(){window.dataLayer.push(arguments)}e("js",new Date),e("config","{{ site.google_analytics }}"),e("event","test_event",{value:"debug"})}));
+function gtag(){window.dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],window.addEventListener("load",(function(){gtag("js",new Date),gtag("config","G-EG5JPV9PZL"),gtag("event","test_event",{value:"debug"})}));
