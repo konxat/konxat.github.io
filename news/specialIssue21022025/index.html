@@ -416,7 +416,18 @@
   <!-- Analytics -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-EG5JPV9PZL"></script>
-  <script src="/assets/js/google-analytics-setup.js?8047a7b320233bb3eaef13100ee1defc"></script>
+  <!-- <script src="/assets/js/google-analytics-setup.js?8047a7b320233bb3eaef13100ee1defc"></script> -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      window.dataLayer.push(arguments);
+    }
+    window.addEventListener("load", function() {
+      gtag("js", new Date());
+      gtag("config", "G-EG5JPV9PZL");
+      
+    });
+  </script>
 
 
 
