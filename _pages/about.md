@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><a href="https://latim.univ-brest.fr/" rel="external nofollow noopener" target="_blank">LaTIM</a>, INSERM, University of Brest, France. 
+subtitle: <p><a href="https://research.tudelft.nl/en/organisations/rstapplied-radiation-isotopes" rel="external nofollow noopener" target="_blank">Applied Sciences, RST/Applied Radiation & Isotopes</a>, TU Delft, Netherlands. 
           Simulating the future of radiation therapy.</p>
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>E124 IBRBS, 1st floor</p> 
-    <p>22 Avenue Camille Desmoulins</p> 
-    <p>Brest, F-29200, France</p>
+    <p>Reactor Institute Delft</p> 
+    <p>Mekelweg 15</p> 
+    <p>2629 JB Delft, Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,13 +29,13 @@ latest_posts:
 ---
 
 <div style="text-align: justify;">
-  <p>Konstantinos is a Medical Physicist based in Brest, France, with research interests at the intersection of medical physics, artificial intelligence (AI), and advanced bioprinting technologies. He is passionate about developing innovative solutions to improve radiation bio-dosimetry and its clinical applications. Specifically, he has been working on the consequences of radiation to living matter using computational techniques, focusing on the quantification of cellular damage through Monte Carlo (MC) simulations and AI methods. He is keen to collaborate with researchers at all levels, including PhD candidates, Post-Doc researchers, and senior researchers.</p>
+  <p>Konstantinos is a Medical Physicist based in Delft, Netherlands, with research interests at the intersection of medical physics, artificial intelligence (AI), and advanced bioprinting technologies. He is passionate about developing innovative solutions to improve radiation bio-dosimetry and its clinical applications. Specifically, he has been working on the consequences of radiation to living matter using computational techniques, focusing on the quantification of cellular damage through Monte Carlo (MC) simulations and AI methods. He is keen to collaborate with researchers at all levels, including PhD candidates, Post-Doc researchers, and senior researchers.</p>
           
   <p>Konstantinos is member of the <a href="https://geant4.web.cern.ch/" rel="external nofollow noopener" target="_blank">Geant4</a> and the <a href="http://geant4-dna.org/" rel="external nofollow noopener" target="_blank">Geant4-DNA</a> collaboration, and is the contact person for AI developments within Geant4-DNA. He is actively developing the <a href="http://moleculardna.org/" rel="external nofollow noopener" target="_blank">molecularDNA</a>.</p>
           
   <p>His current research encompasses several key areas: developing novel methodologies using MC simulations and AI to quantify cellular response after irradiation, advancing personalized dosimetry methods with specialized pharmacokinetic models, exploring 3D bioprinting for creating physical phantoms for medical physics applications, developing online applications leveraging AI to support clinical staff in ionizing radiation techniques, and investigating the potential of digital twins to revolutionize clinical procedures.</p>
           
-  <p>Anyone interested for collaboration can contact Konstantinos via e-mail: konstantinos.chatzipapas[at]univ-brest.fr</p>
+  <p>Anyone interested for collaboration can contact Konstantinos via e-mail: k.chatzipapas[at]tudelft.nl</p>
           
   <p>You may visit our old <a href="https://physicsfeed.blogspot.com" rel="external nofollow noopener" target="_blank">physicsmag</a>, a place that we used to write (Greek) some interesting articles for the public.</p>
 </div>
