@@ -389,7 +389,7 @@ ninja.data = [{
           section: "News",},{id: "news-gandalf-generative-ansatz-for-dna-damage-evaluation-and-forecast-a-neural-network-based-regression-for-estimating-early-dna-damage-across-micro-nano-scales-sparkles-link-sparkles",
           title: 'GANDALF: Generative ANsatz for DNA damage evALuation and Forecast. A neural network-based regression...',
           description: "",
-          section: "News",},{id: "news-in-situ-observation-of-proton-induced-dna-fragmentation-in-the-bragg-peak-evidence-for-protective-role-of-water-sparkles-link-https-doi-org-10-1103-t6st-wwyt-sparkles",
+          section: "News",},{id: "news-in-situ-observation-of-proton-induced-dna-fragmentation-in-the-bragg-peak-evidence-for-protective-role-of-water-sparkles-link-sparkles",
           title: 'In situ observation of proton-induced DNA fragmentation in the Bragg peak: Evidence for...',
           description: "",
           section: "News",},{id: "projects-project-2",
