@@ -18,6 +18,9 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
   - align: left
+    image: smargis.jpg
+    content: about_smargis.md
+  - align: right
     image: kvasilopoulos.jpg
     content: about_kvasilopoulos.md
     # image_circular: false # crops the image to make it circular
