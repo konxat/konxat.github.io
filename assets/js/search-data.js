@@ -435,7 +435,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6B%6F%6E%73%74%61%6E%74%69%6E%6F%73.%63%68%61%74%7A%69%70%61%70%61%73@%75%6E%69%76-%62%72%65%73%74.%66%72", "_blank");
+          window.open("mailto:%6B.%63%68%61%74%7A%69%70%61%70%61%73@%74%75%64%65%6C%66%74.%6E%6C", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -470,7 +470,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://latim.univ-brest.fr", "_blank");
+          window.open("https://www.tudelft.nl/staff/k.chatzipapas/", "_blank");
         },
       },{
       id: 'light-theme',
