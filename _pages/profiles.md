@@ -22,13 +22,14 @@ profiles:
     content: about_smargis.md
     image_circular: true
   - align: right
-    image: kvasilopoulos.jpg
-    content: about_kvasilopoulos.md
-    image_circular: true # crops the image to make it circular
-  - align: left
     image: epanagiotarakou.jpg
     content: about_epanagiotarakou.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: kvasilopoulos.jpg
+    content: about_kvasilopoulos.md
+    image_circular: true # crops the image to make it circular
+
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
