@@ -23,19 +23,19 @@ profiles:
     content: about_smargis.md
     image_circular: true
     more_info: >
-        <p>Stefanos, Geant4 specialist</p>
+        <p>Stefanos, Geant4 expert</p>
   - align: right
     image: epanagiotarakou.jpg
     content: about_epanagiotarakou.md
     image_circular: true # crops the image to make it circular
     more_info: >
-        <p>Effie, computational dosimetry</p>
+        <p>Effie, GATE10 dosimetry</p>
   - align: left
     image: kvasilopoulos.jpg
     content: about_kvasilopoulos.md
     image_circular: true # crops the image to make it circular
     more_info: >
-        <p>Kostas, computational microdosimetry</p>
+        <p>Kostas, Geant4-DNA microdosimetry</p>
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
