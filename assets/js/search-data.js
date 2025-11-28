@@ -395,7 +395,7 @@ ninja.data = [{
           section: "News",},{id: "news-in-silico-assessment-of-cellular-damage-from-lu-177-ac-225-and-pb-212-therapeutic-radionuclides-sparkles-link-sparkles",
           title: 'In silico assessment of cellular damage from Lu-177, Ac-225, and Pb-212 therapeutic radionuclides....',
           description: "",
-          section: "News",},{id: "news-gate-10-monte-carlo-particle-transport-simulation-part-i-development-and-new-features-and-partii-architecture-and-innovations-sparkles-link-parti-link-partii-sparkles",
+          section: "News",},{id: "news-gate-10-monte-carlo-particle-transport-simulation-part-i-development-and-new-features-and-partii-architecture-and-innovations-sparkles-parti-sparkles-partii-sparkles",
           title: 'GATE 10 Monte Carlo particle transport simulation -Part I: development and new features...',
           description: "",
           section: "News",},{id: "projects-project-2",
