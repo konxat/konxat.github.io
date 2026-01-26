@@ -47,10 +47,10 @@
   type: time_table
   contents:
   - title: Assistant Professor of Radiation Dosimetry and Biophysics
-      institution: <a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/radiation-science-technology/research/research-groups/applied-radiation-isotopes/" target="_blank">Applied Radiation and Isotopes (ARI)</a>, Reactor Institute Delft (RID), Department of Radiation Science and Technology, Delft University of Technology
+      institution: <a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/radiation-science-technology/" target="_blank">Applied Radiation and Isotopes</a>(ARI), Reactor Institute Delft (RID), Department of Radiation Science and Technology, Delft University of Technology
       year: 2025-present
       description:
-        - Compuatational dosimetry and cellular damage quantification
+        - Computational dosimetry and cellular damage quantification
         # - Description 2.
         # - title: Projects
           # contents:
@@ -80,10 +80,10 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/konxat/complexDNA">complexDNA</a>
-      year: 2024-now
+      year: 2024-present
       description: A tool to develop prototype DNA and cellular geometries. Chromosomes can be designed and included in a cell, as separate volumes.
     - title: <a href="http://moleculardna.org/">molecularDNA</a>
-      year: 2022-now
+      year: 2022-present
       description: molecularDNA is a Geant4-DNA example built to allow easy simulation of radiation-induced DNA damage with flexible geometries and well defined damage parameters.
 
 # - title: Honors and Awards
