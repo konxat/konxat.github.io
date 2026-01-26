@@ -46,6 +46,16 @@
 - title: Experience
   type: time_table
   contents:
+  - title: Assistant Professor of Radiation Dosimetry and Biophysics
+      institution: <a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/radiation-science-technology/research/research-groups/applied-radiation-isotopes/" target="_blank">Applied Radiation and Isotopes (ARI)</a>, Reactor Institute Delft (RID), Department of Radiation Science and Technology, Delft University of Technology
+      year: 2025-present
+      description:
+        - Compuatational dosimetry and cellular damage quantification
+        # - Description 2.
+        # - title: Projects
+          # contents:
+            # - <a href="https://pianoforte-partnership.eu/lutadose/" target="_blank">LuTaDose/ PIANOFORTE</a>
+            # - <a href="https://enen.eu/index.php/portfolio/secure-project/" target="_blank">SECURE</a>
     - title: Research Scientist/ Post-doc Researcher
       institution: <a href="https://latim.univ-brest.fr/" target="_blank">LaTIM</a>, INSERM, University of Brest
       year: 2023-2025
