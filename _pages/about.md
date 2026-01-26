@@ -33,7 +33,7 @@ latest_posts:
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57204701673" rel="external nofollow noopener" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=Citations&query=$.citations&color=orange" alt="Scopus Citations"/>
     <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=Documents&query=$.documents&color=blue" alt="Scopus Documents"/>
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=h--index&query=$.hindex&color=green" alt="Scopus h-index"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=h-index&query=$.hindex&color=green" alt="Scopus h-index"/>
   </a>
 </div>
 
