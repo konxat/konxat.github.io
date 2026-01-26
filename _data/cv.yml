@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Assistant Professor of Radiation Dosimetry and Biophysics
-      institution: <a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/radiation-science-technology/" target="_blank">Applied Radiation and Isotopes</a>(ARI), Reactor Institute Delft (RID), Department of Radiation Science and Technology, Delft University of Technology
+      institution: <a href="https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/radiation-science-technology/research/research-groups/applied-radiation-isotopes/" target="_blank">Applied Radiation and Isotopes (ARI)</a>, Reactor Institute Delft (RID), Department of Radiation Science and Technology, Delft University of Technology
       year: 2025-present
       description:
         - Computational dosimetry and cellular damage quantification 
