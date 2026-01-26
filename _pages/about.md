@@ -28,6 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<!-- Scopus Metrics -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57204701673" rel="external nofollow noopener" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=Citations&query=$.citations&color=orange" alt="Scopus Citations"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=Documents&query=$.documents&color=blue" alt="Scopus Documents"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://www.scopus.com/authid/detail.uri?authorId=57204701673&label=h--index&query=$.hindex&color=green" alt="Scopus h-index"/>
+  </a>
+</div>
+
 <div style="text-align: justify;">
   <p>Konstantinos is a Medical Physicist based in Delft, Netherlands, with research interests at the intersection of medical physics, artificial intelligence (AI), and advanced bioprinting technologies. He is passionate about developing innovative solutions to improve radiation bio-dosimetry and its clinical applications. Specifically, he has been working on the consequences of radiation to living matter using computational techniques, focusing on the quantification of cellular damage through Monte Carlo (MC) simulations and AI methods. He is keen to collaborate with researchers at all levels, including PhD candidates, Post-Doc researchers, and senior researchers.</p>
           
