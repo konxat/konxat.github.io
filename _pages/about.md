@@ -13,7 +13,7 @@ profile:
     <p>Reactor Institute Delft</p> 
     <p>Mekelweg 15</p> 
     <p>2629 JB Delft, Netherlands</p>
-    <p><img src="https://img.shields.io/badge/Citations-411-orange" alt="Citations" style="height: 15px; width: 80px;"/> <img src="https://img.shields.io/badge/Documents-27-blue" alt="Documents" style="height: 15px; width: 70px;"/> <img src="https://img.shields.io/badge/h--index-9-green" alt="h-index" style="height: 15px; width: 50px;"/></p>
+    <p><img src="https://img.shields.io/badge/Citations-411-orange" alt="Citations" style="height: 15px; width: 72px;"/> <img src="https://img.shields.io/badge/Documents-27-blue" alt="Documents" style="height: 15px; width: 72px;"/> <img src="https://img.shields.io/badge/h--index-9-green" alt="h-index" style="height: 15px; width: 56px;"/></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
