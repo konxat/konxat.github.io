@@ -25,12 +25,18 @@ profiles:
     more_info: >
         <p>Stefanos, Geant4 expert</p>
   - align: right
+    image: yzhang.jpg
+    content: about_yzhang.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+        <p>Yirong, Preclinical data processing</p>
+  - align: left
     image: epanagiotarakou.jpg
     content: about_epanagiotarakou.md
     image_circular: true # crops the image to make it circular
     more_info: >
         <p>Effie, GATE10 dosimetry</p>
-  - align: left
+  - align: right
     image: kvasilopoulos.jpg
     content: about_kvasilopoulos.md
     image_circular: true # crops the image to make it circular
