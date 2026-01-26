@@ -3,7 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: <p><a href="https://research.tudelft.nl/en/organisations/rstapplied-radiation-isotopes/" rel="external nofollow noopener" target="_blank">RST/Applied Radiation & Isotopes</a>, Applied Sciences, TU Delft, Netherlands. 
-          Simulating the future of radiation therapy.</p>
+          Simulating the future of radiation therapy. 
+          <img src="https://img.shields.io/badge/Citations-411-orange" alt="Citations"/>
+          <img src="https://img.shields.io/badge/Documents-27-blue" alt="Documents"/>
+          <img src="https://img.shields.io/badge/h--index-9-green" alt="h-index"/></p>
 
 profile:
   align: right
