@@ -3,7 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: <p><a href="https://research.tudelft.nl/en/organisations/rstapplied-radiation-isotopes/" rel="external nofollow noopener" target="_blank">RST/Applied Radiation & Isotopes</a>, Applied Sciences, TU Delft, Netherlands. 
-          Simulating the future of radiation therapy.</p>
+          Simulating the future of radiation therapy.
+          <div style="text-align: center; margin: 20px 0;">
+            <img src="https://img.shields.io/badge/Citations-411-orange" alt="Citations"/>
+            <img src="https://img.shields.io/badge/Documents-27-blue" alt="Documents"/>
+            <img src="https://img.shields.io/badge/h--index-9-green" alt="h-index"/>
+          </div>
+          </p>
 
 profile:
   align: right
@@ -28,11 +34,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- Scopus Metrics -->
-<div style="text-align: center; margin: 20px 0;">
-  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-  <div class="altmetric-embed" data-badge-type="donut" data-scopus-author-id="57204701673"></div>
-</div>
 
 <div style="text-align: justify;">
   <p>Konstantinos is a Medical Physicist based in Delft, Netherlands, with research interests at the intersection of medical physics, artificial intelligence (AI), and advanced bioprinting technologies. He is passionate about developing innovative solutions to improve radiation bio-dosimetry and its clinical applications. Specifically, he has been working on the consequences of radiation to living matter using computational techniques, focusing on the quantification of cellular damage through Monte Carlo (MC) simulations and AI methods. He is keen to collaborate with researchers at all levels, including PhD candidates, Post-Doc researchers, and senior researchers.</p>
