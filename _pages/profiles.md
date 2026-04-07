@@ -31,7 +31,7 @@ profiles:
     more_info: >
         <p>Yirong, Preclinical data processing</p>
   - align: left
-    image: laura.jpeg
+    image: lbagnale.jpg
     content: about_lbagnale.md
     image_circular: true # crops the image to make it circular
     more_info: >
