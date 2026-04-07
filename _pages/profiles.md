@@ -31,12 +31,18 @@ profiles:
     more_info: >
         <p>Yirong, Preclinical data processing</p>
   - align: left
+    image: laura.jpeg
+    content: about_lbagnale.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+        <p>Laura, BNCT expert</p>
+  - align: right
     image: epanagiotarakou.jpg
     content: about_epanagiotarakou.md
     image_circular: true # crops the image to make it circular
     more_info: >
         <p>Effie, GATE10 dosimetry</p>
-  - align: right
+  - align: left
     image: kvasilopoulos.jpg
     content: about_kvasilopoulos.md
     image_circular: true # crops the image to make it circular
