@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of Chatzipapas group",
+          description: "The ChARIsma group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
