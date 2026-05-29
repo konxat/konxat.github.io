@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: The ChARIsma group
+description: "The <span style='color:#0E3146'>Ch</span><span style='color:#FF6A3D'>ARI</span><span style='color:#0E3146'>sma</span> group"
 nav: true
 nav_order: 7
 
