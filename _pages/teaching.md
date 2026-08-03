@@ -18,7 +18,7 @@ nav_order: 3
 <br>
 <br>
 <u>Past BEP projects</u>
-- <u>**Ingrid van Beek**</u>: _Dosimetric Evaluation of Gold Nanoparticles for Radiation Applications_
+- **<u>Ingrid van Beek</u>**: _Dosimetric Evaluation of Gold Nanoparticles for Radiation Applications_
 - <u>**Juliette Hagens**</u>: _COMSOL-Based Simulation of Heat Transfer in U87 Tumor Spheroids under Hyperthermia Conditions_
 - <u>**Stein Molenaar**</u>: _Investigation into the use of Reinforcement Learning to design DNA chains in arbitrary cellular geometries_
 - <u>**Christine Gambon**</u>: _Voxel-Level Monte Carlo Dosimetry: A GATE Framework for Evidence-Based Radionuclide Selection in Metastasized Ovarian Cancer_
