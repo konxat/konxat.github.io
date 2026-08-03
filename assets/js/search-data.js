@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-education",
+          title: "education",
           description: "Medical Physics, Dosimetry, Radiobiology.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/education/";
           },
         },{id: "nav-repositories",
           title: "repositories",
