@@ -19,16 +19,16 @@ nav_order: 3
 
 <br>
 <br>
-<u>Past BEP projects</u>
-- **<u>Ingrid van Beek</u>**: _Dosimetric Evaluation of Gold Nanoparticles for Radiation Applications_
-- **<u>Juliette Hagens</u>**: _COMSOL-Based Simulation of Heat Transfer in U87 Tumor Spheroids under Hyperthermia Conditions_
-- **<u>Stein Molenaar</u>**: _Investigation into the use of Reinforcement Learning to design DNA chains in arbitrary cellular geometries_
-- **<u>Christine Gambon</u>**: _Voxel-Level Monte Carlo Dosimetry: A GATE Framework for Evidence-Based Radionuclide Selection in Metastasized Ovarian Cancer_
-- **<u>Alexander Bunschoten</u>**: _Model development and optimisation for HollandPTC beam geometry using GATE10_
+<u>Completed BEP projects</u>
+- **<u>Ingrid van Beek</u>**(2025): _Dosimetric Evaluation of Gold Nanoparticles for Radiation Applications_
+- **<u>Juliette Hagens</u>**(2026): _COMSOL-Based Simulation of Heat Transfer in U87 Tumor Spheroids under Hyperthermia Conditions_
+- **<u>Stein Molenaar</u>**(2026): _Investigation into the use of Reinforcement Learning to design DNA chains in arbitrary cellular geometries_
+- **<u>Christine Gambon</u>**(2026): _Voxel-Level Monte Carlo Dosimetry: A GATE Framework for Evidence-Based Radionuclide Selection in Metastasized Ovarian Cancer_
+- **<u>Alexander Bunschoten</u>**(2026): _Model development and optimisation for HollandPTC beam geometry using GATE10_
 
 <br>
 <br>
-<u>Past MEP projects</u>
+<u>Completed MEP projects</u>
 - **<u>Konstantinos Vasilopoulos</u>**: _The use of molecularDNA for the investigation of cellular damage induced by radiation therapy_
 - **<u>Eftychia Panagiotarakou</u>**: _Dosimetric investigation into the use of alpha- and beta- emitters for radionuclide therapy_
 
