@@ -15,15 +15,16 @@ nav_order: 3
 
 4) TM11002 [Molecular Imaging and Therapy](https://studiegids.tudelft.nl/courses/study-guide/educations/32914)
 
+
 Past BEP projects
-- Ingrid van Beek:Dosimetric Evaluation of Gold Nanoparticles for Radiation Applications
-- Juliette Hagens: COMSOL-Based Simulation of Heat Transfer in U87 Tumor Spheroids under Hyperthermia Conditions
-- Stein Molenaar: Investigation into the use of Reinforcement Learning to design DNA chains in arbitrary cellular geometries
-- Christine Gambon: Voxel-Level Monte Carlo Dosimetry: A GATE Framework for Evidence-Based Radionuclide Selection in Metastasized Ovarian Cancer
-- Alexander Bunschoten: Model development and optimisation for HollandPTC beam geometry using GATE10
+- **Ingrid van Beek**: Dosimetric Evaluation of Gold Nanoparticles for Radiation Applications
+- **Juliette Hagens**: COMSOL-Based Simulation of Heat Transfer in U87 Tumor Spheroids under Hyperthermia Conditions
+- **Stein Molenaar**: Investigation into the use of Reinforcement Learning to design DNA chains in arbitrary cellular geometries
+- **Christine Gambon**: Voxel-Level Monte Carlo Dosimetry: A GATE Framework for Evidence-Based Radionuclide Selection in Metastasized Ovarian Cancer
+- **Alexander Bunschoten**: Model development and optimisation for HollandPTC beam geometry using GATE10
 
 Past MEP projects
-- Konstantinos Vasilopoulos: The use of molecularDNA for the investigation of cellular damage induced by radiation therapy
-- Eftychia Panagiotarakou: Dosimetric investigation into the use of alpha- and beta- emitters for radionuclide therapy
+- **Konstantinos Vasilopoulos**: The use of molecularDNA for the investigation of cellular damage induced by radiation therapy
+- **Eftychia Panagiotarakou**: Dosimetric investigation into the use of alpha- and beta- emitters for radionuclide therapy
 
 
