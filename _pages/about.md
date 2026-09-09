@@ -38,7 +38,7 @@ latest_posts:
           
   <p>His current research encompasses several key areas: developing novel methodologies using MC simulations and AI to quantify cellular response after irradiation, advancing personalized dosimetry methods with specialized pharmacokinetic models, exploring 3D bioprinting for creating physical phantoms for medical physics applications, developing online applications leveraging AI to support clinical staff in ionizing radiation techniques, and investigating the potential of digital twins to revolutionize clinical procedures.</p>
           
-  <p>Anyone interested for collaboration can contact Konstantinos via e-mail: k.chatzipapas[at]tudelft.nl</p>
+  <p>Anyone interested for collaboration can contact Konstantinos via e-mail: k.chatzipapas[at]tudelft[dot]nl</p>
           
   <p>You may visit our old <a href="https://physicsfeed.blogspot.com" rel="external nofollow noopener" target="_blank">physicsmag</a>, a place that we used to write (Greek) some interesting articles for the public.</p>
 </div>
