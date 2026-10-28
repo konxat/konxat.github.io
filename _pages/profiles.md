@@ -37,19 +37,22 @@ profiles:
     more_info: >
         <p>Laura, BNCT expert</p>
   - align: right
-    image: epanagiotarakou.jpg
-    content: about_epanagiotarakou.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-        <p>Effie, GATE10 dosimetry</p>
-  - align: left
     image: kvasilopoulos.jpg
     content: about_kvasilopoulos.md
     image_circular: true # crops the image to make it circular
     more_info: >
         <p>Kostas, Geant4-DNA microdosimetry</p>
+
+        
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
+
+    # - align: right
+    # image: epanagiotarakou.jpg
+    # content: about_epanagiotarakou.md
+    # image_circular: true # crops the image to make it circular
+    # more_info: >
+    #     <p>Effie, GATE10 dosimetry</p>
 ---
