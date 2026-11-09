@@ -42,6 +42,18 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
         <p>Kostas, Geant4-DNA microdosimetry</p>
+  - align: left
+    image: hkanaki.jpg
+    content: about_hkanaki.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+        <p>Hara, Organ dosimetry</p>
+  - align: right
+    image: tvergoni.jpg
+    content: about_tvergoni.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+        <p>Dido, Cellular geometries</p>
 
         
     # more_info: >
