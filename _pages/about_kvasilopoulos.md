@@ -1,3 +1,3 @@
 Konstantinos is a physicist (BSc) who holds an MSc in Medical and Radiation Physics from the University of Patras. His research focuses on how ionizing radiation damages the DNA and how that damage can be modeled at both the macroscopic and the microscopic scale.
-He carried out his MSc thesis within the ChARIsma team, at the department of Radiation, Science and Technology (TU Delft), using the molecularDNA example of Geant4-DNA, to study radiation-induced DNA damage. 
+He carried out his MSc thesis entitled: “The use of moleculardna for the investigation of cellular damage induced by radiation therapy”, within the ChARIsma group, at the Radiation, Science and Technology Department, TU Delft, using the molecularDNA example of Geant4-DNA, to study radiation-induced DNA damage. 
 He is now a PhD candidate at the University of Patras, working on space related radiation protection applications. His research is funded by the "Andreas Mentzelopoulos" Foundation.
