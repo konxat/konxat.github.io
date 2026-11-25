@@ -25,7 +25,7 @@ nav_order: 3
 - **<u>Juliette Hagens</u>**  (2026): _COMSOL-Based Simulation of Heat Transfer in U87 Tumor Spheroids under Hyperthermia Conditions_
 - **<u>Stein Molenaar</u>**   (2026): _Investigation into the use of Reinforcement Learning to design DNA chains in arbitrary cellular geometries_
 - **<u>Christine Gambon</u>** (2026): _Voxel-Level Monte Carlo Dosimetry: A GATE Framework for Evidence-Based Radionuclide Selection in Metastasized Ovarian Cancer_
-- **<u>Alexander Bunschoten</u>** (2026): _Model development and optimisation for HollandPTC beam geometry using GATE10_
+- **<u>Alexander Bunschoten</u>** (2026): _Model development and optimisation for HollandPTC beam geometry using GATE10_ (cum laude)
 
 <br>
 <br>
